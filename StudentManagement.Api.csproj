@@ -27,8 +27,4 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.4.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\StudentManagement.Data\StudentManagement.Data.csproj" />
-  </ItemGroup>
-
 </Project>

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using StudentManagement.Data.Models;
 using StudentManagement.Api.Services;
+using StudentManagement.Api.Models.AuthModels;
 
 namespace StudentManagement.Api.Controllers
 {

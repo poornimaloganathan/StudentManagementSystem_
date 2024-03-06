@@ -5,7 +5,7 @@ using Microsoft.Build.Evaluation;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using StudentManagement.Api.Models;
-using StudentManagement.Data.Models;
+using StudentManagement.Api.Models.AuthModels;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);

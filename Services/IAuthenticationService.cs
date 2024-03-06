@@ -1,4 +1,4 @@
-﻿using StudentManagement.Data.Models;
+﻿using StudentManagement.Api.Models.AuthModels;
 
 namespace StudentManagement.Api.Services
 {
