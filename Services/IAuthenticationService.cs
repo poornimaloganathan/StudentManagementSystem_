@@ -8,3 +8,4 @@ namespace StudentManagement.Api.Services
         Task<(int, string)> Login(LoginModel model);
     }
 }
+ 
